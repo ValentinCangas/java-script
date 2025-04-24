@@ -1,4 +1,4 @@
-let boton = document.querySelector("modoOscuro")
+let boton = document.querySelector("#modoOscuro")
 let body = document.querySelector("body")
 
 boton.onclick = function(){
